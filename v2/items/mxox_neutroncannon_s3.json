@@ -1,7 +1,7 @@
 {
   "UUID": "231fd67b-49a6-40e9-8eef-20268cfc0b2c",
   "ClassName": "MXOX_NeutronCannon_S3",
-  "Size": 2,
+  "Size": 3,
   "Grade": 1,
   "Type": "WeaponGun.Gun",
   "Classification": "Ship.Weapon.Gun",

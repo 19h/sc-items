@@ -212,13 +212,13 @@
                       },
                       {
                         "itemPortName": "Screen_MFD_Right",
-                        "entityClassName": "Vehicle_Screen_MFD",
+                        "entityClassName": "Vehicle_Screen_MFD_Holographic",
                         "entityClassReference": "00000000-0000-0000-0000-000000000000",
                         "loadout": {}
                       },
                       {
                         "itemPortName": "Screen_MFD_Left",
-                        "entityClassName": "Vehicle_Screen_MFD",
+                        "entityClassName": "Vehicle_Screen_MFD_Holographic",
                         "entityClassReference": "00000000-0000-0000-0000-000000000000",
                         "loadout": {}
                       },

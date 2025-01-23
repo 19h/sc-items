@@ -205,6 +205,22 @@
               "Display"
             ],
             "Category": "UNKNOWN"
+          },
+          {
+            "PortName": "screen_annunciator_left",
+            "Size": 1,
+            "Types": [
+              "Display"
+            ],
+            "Category": "UNKNOWN"
+          },
+          {
+            "PortName": "screen_annunciator_right",
+            "Size": 1,
+            "Types": [
+              "Display"
+            ],
+            "Category": "UNKNOWN"
           }
         ]
       },
@@ -262,6 +278,24 @@
           "PortName": "rtt_screen_bottom_left",
           "Size": 0,
           "Loadout": "Vehicle_Screen_MFD",
+          "Category": "DISABLED"
+        }
+      },
+      {
+        "Name": "screen_annunciator_left",
+        "Port": {
+          "PortName": "screen_annunciator_left",
+          "Size": 0,
+          "Loadout": "",
+          "Category": "DISABLED"
+        }
+      },
+      {
+        "Name": "screen_annunciator_right",
+        "Port": {
+          "PortName": "screen_annunciator_right",
+          "Size": 0,
+          "Loadout": "",
           "Category": "DISABLED"
         }
       }

@@ -12,8 +12,8 @@
   "Ifcs": {
     "MaxSpeed": 994.0,
     "ScmSpeed": 156.0,
-    "Pitch": 32.0,
-    "Yaw": 32.0,
+    "Pitch": 35.0,
+    "Yaw": 35.0,
     "Roll": 75.0,
     "Afterburner": {
       "SpoolUpTime": 0.0,

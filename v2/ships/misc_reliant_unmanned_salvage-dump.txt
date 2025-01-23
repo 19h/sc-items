@@ -1,18 +1,14 @@
 MISC_Reliant_Unmanned_Salvage
 hardpoint_paint                                   S0                                                                                                                      DISABLED                                
-hardpoint_seat_pilot                              S0                                                     MISC_Reliant_SCItem_Seat_Pilot                                   UNKNOWN                                 
- hardpoint_cockpit_radar                          S1   Display                                           Radar_Display_MISC_Reliant                                       UNKNOWN                                 
- Display_HUD                                      S1                                                                                                                      UNKNOWN                                 
- Screen_MFD_Outer_Right                           S1   Display                                           Vehicle_Screen_MFD_Holographic_MISC_Reliant_RR                   UNKNOWN                                 
- Screen_MFD_Mid_Right                             S1   Display                                           Vehicle_Screen_MFD_Holographic_MISC_Reliant_MR                   UNKNOWN                                 
- Screen_MFD_Mid_Left                              S1   Display                                           Vehicle_Screen_MFD_Holographic_MISC_Reliant_ML                   UNKNOWN                                 
- Screen_MFD_Outer_Left                            S1   Display                                           Vehicle_Screen_MFD_Holographic_MISC_Reliant_LL                   UNKNOWN                                 
+hardpoint_seat_pilot                              S0                                                                                                                      DISABLED                                
  hardpoint_cockpit_radar                          S0                                                     Radar_Display_MISC_Reliant                                       DISABLED                                
  Display_HUD                                      S0                                                                                                                      DISABLED                                
  Screen_MFD_Outer_Right                           S0                                                     Vehicle_Screen_MFD_Holographic_MISC_Reliant_RR                   DISABLED                                
  Screen_MFD_Outer_Left                            S0                                                     Vehicle_Screen_MFD_Holographic_MISC_Reliant_LL                   DISABLED                                
  Screen_MFD_Mid_Right                             S0                                                     Vehicle_Screen_MFD_Holographic_MISC_Reliant_MR                   DISABLED                                
  Screen_MFD_Mid_Left                              S0                                                     Vehicle_Screen_MFD_Holographic_MISC_Reliant_ML                   DISABLED                                
+ Screen_Annunciator_Left                          S0                                                                                                                      DISABLED                                
+ Screen_Annunciator_Right                         S0                                                                                                                      DISABLED                                
 hardpoint_seat_copilot                            S0                                                     MISC_Reliant_SCItem_Seat_CoPilot                                 UNKNOWN                                 
  Display_HUD                                      S1                                                     H_Dashboard_Projector_HUD_Generic                                UNKNOWN                                 
  Screen_MFD_Center                                S1   Display                                           Vehicle_Screen_MFD                                               UNKNOWN                                 

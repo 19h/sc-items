@@ -1,0 +1,25 @@
+{
+  "UUID": "00e0682f-61b2-4aa4-ab79-b17c8e8dd9b0",
+  "ClassName": "Carryable_2H_CY_plushy_coramor_1_a",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Misc.Personal",
+  "Name": "Red Heart Plushie",
+  "Description": "Huggable, lovable, and thoroughly squashable, this red heart plushie will fill your heart with joy. With a firm but springy filling, this plush cushion consist of a synthetic leather casing dyed with a passionate scarlet coloring.",
+  "Manufacturer": {
+    "Code": "MITE",
+    "Name": "Casaba Outlet"
+  },
+  "Tags": [
+    "plush"
+  ],
+  "Width": 0.5378,
+  "Height": 0.4942,
+  "Length": 0.4418,
+  "Volume": 0.0494,
+  "DimensionOverrides": {
+    "Width": 0.5,
+    "Height": 0.65,
+    "Depth": 0.5
+  }
+}

@@ -635,14 +635,14 @@
           {
             "PortName": "Screen_MFD_Right",
             "Size": 1,
-            "Loadout": "Vehicle_Screen_MFD",
+            "Loadout": "Vehicle_Screen_MFD_Holographic",
             "InstalledItem": {
-              "UUID": "c08cedfa-fafc-4ea6-9737-59faeb4b1510",
-              "ClassName": "Vehicle_Screen_MFD",
+              "UUID": "34879b2e-8e05-427c-a81c-876aad2cc155",
+              "ClassName": "Vehicle_Screen_MFD_Holographic",
               "Size": 1,
               "Grade": 1,
               "Type": "Display.UNDEFINED",
-              "Name": "Vehicle_Screen_MFD",
+              "Name": "Vehicle_Screen_MFD_Holographic",
               "Width": 0.15,
               "Height": 0.15,
               "Length": 0.15,
@@ -660,14 +660,14 @@
           {
             "PortName": "Screen_MFD_Left",
             "Size": 1,
-            "Loadout": "Vehicle_Screen_MFD",
+            "Loadout": "Vehicle_Screen_MFD_Holographic",
             "InstalledItem": {
-              "UUID": "c08cedfa-fafc-4ea6-9737-59faeb4b1510",
-              "ClassName": "Vehicle_Screen_MFD",
+              "UUID": "34879b2e-8e05-427c-a81c-876aad2cc155",
+              "ClassName": "Vehicle_Screen_MFD_Holographic",
               "Size": 1,
               "Grade": 1,
               "Type": "Display.UNDEFINED",
-              "Name": "Vehicle_Screen_MFD",
+              "Name": "Vehicle_Screen_MFD_Holographic",
               "Width": 0.15,
               "Height": 0.15,
               "Length": 0.15,
@@ -760,7 +760,7 @@
         "Port": {
           "PortName": "Screen_MFD_Right",
           "Size": 0,
-          "Loadout": "Vehicle_Screen_MFD",
+          "Loadout": "Vehicle_Screen_MFD_Holographic",
           "Category": "DISABLED"
         }
       },
@@ -769,7 +769,7 @@
         "Port": {
           "PortName": "Screen_MFD_Left",
           "Size": 0,
-          "Loadout": "Vehicle_Screen_MFD",
+          "Loadout": "Vehicle_Screen_MFD_Holographic",
           "Category": "DISABLED"
         }
       },

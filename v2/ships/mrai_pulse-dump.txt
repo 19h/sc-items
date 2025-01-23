@@ -1,6 +1,6 @@
 MRAI_Pulse
-hardpoint_seat_access                             S0                                                     MRAI_Pulse_SeatAccess                                            UNKNOWN                                 
 hardpoint_paint                                   S0                                                                                                                      DISABLED                                
+hardpoint_seat_access                             S0                                                     MRAI_Pulse_SeatAccess                                            UNKNOWN                                 
 hardpoint_seat_pilot                              S0                                                     MRAI_Pulse_Seat_Pilot                                            UNKNOWN                                 
 hardpoint_dashboard_pilot                         S0                                                     MRAI_Pulse_Dashboard_Pilot                                       UNKNOWN                                 
  radar_helper                                     S1   Display                                           Radar_Display_Pulse                                              UNKNOWN                                 

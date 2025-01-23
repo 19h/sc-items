@@ -217,92 +217,155 @@
         {
           "Name": "cluster1",
           "DisplayName": "",
-          "PortTags": "",
-          "RequiredPortTags": "",
-          "Flags": "",
+          "PortTags": "NOVA_Rocket",
+          "RequiredPortTags": "NOVA_Rocket",
+          "Flags": "uneditable",
           "MinSize": 0,
-          "MaxSize": 1,
+          "MaxSize": 0,
           "InteractionPointSize": -1.0,
           "DefaultWeaponGroup": "UNDEFINED",
-          "Types": [],
+          "Types": [
+            {
+              "Type": "Missile",
+              "SubTypes": [
+                {
+                  "value": "Rocket"
+                }
+              ]
+            }
+          ],
           "EquippedItemUuid": "d0562627-1838-4fe7-bea7-788d6b8c4055"
         },
         {
           "Name": "cluster2",
           "DisplayName": "",
-          "PortTags": "",
-          "RequiredPortTags": "",
-          "Flags": "",
+          "PortTags": "NOVA_Rocket",
+          "RequiredPortTags": "NOVA_Rocket",
+          "Flags": "uneditable",
           "MinSize": 0,
-          "MaxSize": 1,
+          "MaxSize": 0,
           "InteractionPointSize": -1.0,
           "DefaultWeaponGroup": "UNDEFINED",
-          "Types": [],
+          "Types": [
+            {
+              "Type": "Missile",
+              "SubTypes": [
+                {
+                  "value": "Rocket"
+                }
+              ]
+            }
+          ],
           "EquippedItemUuid": "d0562627-1838-4fe7-bea7-788d6b8c4055"
         },
         {
           "Name": "cluster3",
           "DisplayName": "",
-          "PortTags": "",
-          "RequiredPortTags": "",
-          "Flags": "",
+          "PortTags": "NOVA_Rocket",
+          "RequiredPortTags": "NOVA_Rocket",
+          "Flags": "uneditable",
           "MinSize": 0,
-          "MaxSize": 1,
+          "MaxSize": 0,
           "InteractionPointSize": -1.0,
           "DefaultWeaponGroup": "UNDEFINED",
-          "Types": [],
+          "Types": [
+            {
+              "Type": "Missile",
+              "SubTypes": [
+                {
+                  "value": "Rocket"
+                }
+              ]
+            }
+          ],
           "EquippedItemUuid": "d0562627-1838-4fe7-bea7-788d6b8c4055"
         },
         {
           "Name": "cluster4",
           "DisplayName": "",
-          "PortTags": "",
-          "RequiredPortTags": "",
-          "Flags": "",
+          "PortTags": "NOVA_Rocket",
+          "RequiredPortTags": "NOVA_Rocket",
+          "Flags": "uneditable",
           "MinSize": 0,
-          "MaxSize": 1,
+          "MaxSize": 0,
           "InteractionPointSize": -1.0,
           "DefaultWeaponGroup": "UNDEFINED",
-          "Types": [],
+          "Types": [
+            {
+              "Type": "Missile",
+              "SubTypes": [
+                {
+                  "value": "Rocket"
+                }
+              ]
+            }
+          ],
           "EquippedItemUuid": "d0562627-1838-4fe7-bea7-788d6b8c4055"
         },
         {
           "Name": "cluster5",
           "DisplayName": "",
-          "PortTags": "",
-          "RequiredPortTags": "",
-          "Flags": "",
+          "PortTags": "NOVA_Rocket",
+          "RequiredPortTags": "NOVA_Rocket",
+          "Flags": "uneditable",
           "MinSize": 0,
-          "MaxSize": 1,
+          "MaxSize": 0,
           "InteractionPointSize": -1.0,
           "DefaultWeaponGroup": "UNDEFINED",
-          "Types": [],
+          "Types": [
+            {
+              "Type": "Missile",
+              "SubTypes": [
+                {
+                  "value": "Rocket"
+                }
+              ]
+            }
+          ],
           "EquippedItemUuid": "d0562627-1838-4fe7-bea7-788d6b8c4055"
         },
         {
           "Name": "cluster6",
           "DisplayName": "",
-          "PortTags": "",
-          "RequiredPortTags": "",
-          "Flags": "",
+          "PortTags": "NOVA_Rocket",
+          "RequiredPortTags": "NOVA_Rocket",
+          "Flags": "uneditable",
           "MinSize": 0,
-          "MaxSize": 1,
+          "MaxSize": 0,
           "InteractionPointSize": -1.0,
           "DefaultWeaponGroup": "UNDEFINED",
-          "Types": [],
+          "Types": [
+            {
+              "Type": "Missile",
+              "SubTypes": [
+                {
+                  "value": "Rocket"
+                }
+              ]
+            }
+          ],
           "EquippedItemUuid": "d0562627-1838-4fe7-bea7-788d6b8c4055"
         },
         {
           "Name": "cluster7",
           "DisplayName": "",
-          "PortTags": "",
-          "RequiredPortTags": "",
-          "Flags": "",
+          "PortTags": "NOVA_Rocket",
+          "RequiredPortTags": "NOVA_Rocket",
+          "Flags": "uneditable",
           "MinSize": 0,
-          "MaxSize": 1,
+          "MaxSize": 0,
           "InteractionPointSize": -1.0,
           "DefaultWeaponGroup": "UNDEFINED",
-          "Types": [],
+          "Types": [
+            {
+              "Type": "Missile",
+              "SubTypes": [
+                {
+                  "value": "Rocket"
+                }
+              ]
+            }
+          ],
           "EquippedItemUuid": "d0562627-1838-4fe7-bea7-788d6b8c4055"
         }
       ]

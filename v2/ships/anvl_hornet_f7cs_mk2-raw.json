@@ -30,7 +30,7 @@
         "value": "997fe0d8-c947-46bb-9bca-a78157e8a799"
       },
       {
-        "value": "00000000-0000-0000-0000-000000000000"
+        "value": "b67e854f-4254-440d-8d32-5e3420b13050"
       },
       {
         "value": "5c784de1-5354-4451-8edf-38e9421aa798"
@@ -703,7 +703,7 @@
             "DisplayName": "",
             "PortTags": "Ship_Dock_Refuel",
             "RequiredPortTags": "",
-            "Flags": "dockingport1",
+            "Flags": "dockingport1 $uneditable",
             "MinSize": 1,
             "MaxSize": 1,
             "InteractionPointSize": -1.0,

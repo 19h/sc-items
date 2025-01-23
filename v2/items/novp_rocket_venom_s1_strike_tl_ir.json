@@ -1,7 +1,7 @@
 {
   "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
   "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-  "Size": 9,
+  "Size": 0,
   "Grade": 1,
   "Type": "Missile.Rocket",
   "Classification": "Ship.Missile.Rocket",
@@ -12,7 +12,8 @@
     "Name": "Nova Pyrotechnica"
   },
   "Tags": [
-    "flightReady"
+    "flightReady",
+    "NOVA_Rocket"
   ],
   "Width": 0.2233005,
   "Height": 0.801895,

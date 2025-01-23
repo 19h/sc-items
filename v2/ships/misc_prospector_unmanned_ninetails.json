@@ -47,26 +47,26 @@
       "Vtol": "NaN",
       "Maneuvering": "Infinity"
     },
-    "Pitch": 32.0,
-    "Yaw": 32.0,
+    "Pitch": 35.0,
+    "Yaw": 35.0,
     "Roll": 75.0
   },
   "Propulsion": {
     "FuelCapacity": 0.0,
     "FuelIntakeRate": 13.0,
     "FuelUsage": {
-      "Main": 77.805,
+      "Main": 70.63875,
       "Retro": 54.25875,
       "Vtol": 0.0,
-      "Maneuvering": 57.9375
+      "Maneuvering": 56.375
     },
     "ThrustCapacity": {
-      "Main": 7600000.0,
+      "Main": 6900000.0,
       "Retro": 5300000.0,
       "Vtol": 0.0,
-      "Maneuvering": 18540000.0
+      "Maneuvering": 18040000.0
     },
-    "IntakeToMainFuelRatio": 0.1670843776106934,
+    "IntakeToMainFuelRatio": 0.18403496664366228,
     "IntakeToTankCapacityRatio": "Infinity",
     "TimeForIntakesToFillTank": 0.0,
     "ManeuveringTimeTillEmpty": 0.0

@@ -5724,6 +5724,9 @@
                   "Types": [
                     "SalvageModifier"
                   ],
+                  "Flags": [
+                    "invisible"
+                  ],
                   "Category": "Utility hardpoints"
                 },
                 {
@@ -5752,6 +5755,9 @@
                   },
                   "Types": [
                     "SalvageModifier"
+                  ],
+                  "Flags": [
+                    "invisible"
                   ],
                   "Category": "UNKNOWN"
                 }
@@ -6020,6 +6026,9 @@
                   "Types": [
                     "SalvageModifier"
                   ],
+                  "Flags": [
+                    "invisible"
+                  ],
                   "Category": "Utility hardpoints"
                 },
                 {
@@ -6048,6 +6057,9 @@
                   },
                   "Types": [
                     "SalvageModifier"
+                  ],
+                  "Flags": [
+                    "invisible"
                   ],
                   "Category": "UNKNOWN"
                 }

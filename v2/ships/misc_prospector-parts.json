@@ -649,8 +649,8 @@
         "Ifcs": {
           "MaxSpeed": 994.0,
           "ScmSpeed": 156.0,
-          "Pitch": 32.0,
-          "Yaw": 32.0,
+          "Pitch": 35.0,
+          "Yaw": 35.0,
           "Roll": 75.0,
           "Afterburner": {
             "SpoolUpTime": 0.0,
@@ -1301,10 +1301,10 @@
         "Length": 0.15,
         "Volume": 1E-06,
         "Thruster": {
-          "ThrustCapacity": 1550000.0,
+          "ThrustCapacity": 1200000.0,
           "FuelRate": 1.02375E-05,
           "Type": "Main",
-          "MaxThrustFuelRate": 15.868125
+          "MaxThrustFuelRate": 12.285
         },
         "Durability": {
           "Health": 11400.0
@@ -1347,10 +1347,10 @@
         "Length": 0.15,
         "Volume": 1E-06,
         "Thruster": {
-          "ThrustCapacity": 1550000.0,
+          "ThrustCapacity": 1200000.0,
           "FuelRate": 1.02375E-05,
           "Type": "Main",
-          "MaxThrustFuelRate": 15.868125
+          "MaxThrustFuelRate": 12.285
         },
         "Durability": {
           "Health": 11400.0
@@ -1991,10 +1991,10 @@
         "Length": 0.15,
         "Volume": 1E-06,
         "Thruster": {
-          "ThrustCapacity": 2050000.0,
+          "ThrustCapacity": 1800000.0,
           "FuelRate": 3.125E-06,
           "Type": "Maneuver",
-          "MaxThrustFuelRate": 6.40625
+          "MaxThrustFuelRate": 5.625
         },
         "Durability": {
           "Health": 10000.0
@@ -2037,10 +2037,10 @@
         "Length": 0.15,
         "Volume": 1E-06,
         "Thruster": {
-          "ThrustCapacity": 2050000.0,
+          "ThrustCapacity": 1800000.0,
           "FuelRate": 3.125E-06,
           "Type": "Maneuver",
-          "MaxThrustFuelRate": 6.40625
+          "MaxThrustFuelRate": 5.625
         },
         "Durability": {
           "Health": 10000.0

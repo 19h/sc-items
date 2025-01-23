@@ -61,6 +61,20 @@
       "Types": [
         "Display"
       ]
+    },
+    {
+      "PortName": "screen_annunciator_left",
+      "Size": 1,
+      "Types": [
+        "Display"
+      ]
+    },
+    {
+      "PortName": "screen_annunciator_right",
+      "Size": 1,
+      "Types": [
+        "Display"
+      ]
     }
   ]
 }

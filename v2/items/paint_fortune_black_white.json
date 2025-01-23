@@ -1,0 +1,27 @@
+{
+  "UUID": "9f2ed793-1795-4a85-aa3d-a0c359b80aae",
+  "ClassName": "Paint_Fortune_Black_White",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Fortune Iceberg Livery",
+  "Description": "Black and white paints juxtapose each other across the Iceberg livery, with a sleek blue finish around the Fortune's more shapely areas.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Tags": [
+    "Paint_Fortune",
+    "@Paint_Fortune_Black_White"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

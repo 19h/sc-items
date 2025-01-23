@@ -1,0 +1,15 @@
+{
+  "UUID": "b8b5bf4a-a281-416c-b3f2-5fb615452d6e",
+  "ClassName": "Controller_Shield_MISC_Fortune",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "ShieldController.UNDEFINED",
+  "Name": "SHIELDS",
+  "Tags": [
+    "flightReady"
+  ],
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06
+}

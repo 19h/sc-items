@@ -1,0 +1,27 @@
+{
+  "UUID": "84184aaa-026f-4dc5-9297-ed08fce2e086",
+  "ClassName": "Paint_Carrack_Reward_Faction_Xeno_Threat",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Carrack XenoThreat Purge Livery",
+  "Description": "Let Humanity know you won't bow down to alien invaders with this XenoThreat livery featuring a muted teal with bright red accents.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Anvil Aerospace"
+  },
+  "Tags": [
+    "Paint_Carrack",
+    "@Paint_Carrack_Reward_Faction_Xeno_Threat"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "UUID": "5a20caf8-ca85-45a0-b81b-b6493c00066a",
+  "ClassName": "Paint_Fortune_Yellow_White",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Fortune Luminance Livery",
+  "Description": "The cool white of the Fortune Luminance livery are offset by metallic greys and bright dashes of yellow.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Tags": [
+    "Paint_Fortune",
+    "@Paint_Fortune_Yellow_White"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

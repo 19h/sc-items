@@ -3325,7 +3325,8 @@
           "Name": "Argo Astronautics"
         },
         "Tags": [
-          "flightReady"
+          "flightReady",
+          "$CNOU_Nomad_Turret"
         ],
         "Width": 0.15,
         "Height": 0.15,

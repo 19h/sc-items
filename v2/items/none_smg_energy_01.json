@@ -1,0 +1,160 @@
+{
+  "UUID": "4c1892db-cc94-41f2-a513-0b7e1cba8f26",
+  "ClassName": "none_smg_energy_01",
+  "Size": 2,
+  "Grade": 1,
+  "Type": "WeaponPersonal.Medium",
+  "Classification": "FPS.Weapon.Medium",
+  "Name": "Ripper SMG",
+  "Description": "Manufacturer: Unknown\nItem Type: SMG\nClass: Energy (Laser)\n\nBattery Size: 60\nRate Of Fire: 800 rpm\nEffective Range: 30 m\n\nScrapped together from whatever parts and pieces were available, the Ripper SMG can probably do enough damage to get you out of a tight spot. Just be ready for things to get messy.",
+  "Manufacturer": {
+    "Code": "KSAR",
+    "Name": "Kastak Arms"
+  },
+  "Tags": [
+    "stocked",
+    "smg",
+    "none_smg_energy_01"
+  ],
+  "Width": 0.0471,
+  "Height": 0.2594,
+  "Length": 0.7026,
+  "Volume": 0.007699999999999999,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 1.125
+  },
+  "Durability": {
+    "Lifetime": 0.0
+  },
+  "Weapon": {
+    "Ammunition": {
+      "UUID": "74dfd9e5-6196-4625-8328-4896abcb3e8d",
+      "Type": "AmmoParams",
+      "Speed": 600.0,
+      "Range": 1200.0,
+      "Size": 1.0,
+      "ImpactDamage": {
+        "Energy": 21.0
+      },
+      "BulletImpulseFalloff": {
+        "MinDistance": 0.0,
+        "DropFalloff": 0.02,
+        "MaxFalloff": 0.01
+      },
+      "BulletPierceability": {
+        "DamageFalloffLevel1": 0.0,
+        "DamageFalloffLevel2": 0.0,
+        "DamageFalloffLevel3": 0.0,
+        "MaxPenetrationThickness": 0.5
+      },
+      "BulletElectron": {},
+      "DamageDropMinDistance": {},
+      "DamageDropPerMeter": {},
+      "DamageDropMinDamage": {}
+    },
+    "Modes": [
+      {
+        "Name": "Damage Beam",
+        "LocalisedName": "@LOC_PLACEHOLDER",
+        "RoundsPerMinute": 0.0,
+        "FireType": "beam",
+        "AmmoPerShot": 0.0,
+        "PelletsPerShot": 0.0,
+        "DamagePerShot": {},
+        "DamagePerSecond": {}
+      }
+    ]
+  },
+  "Ammunition": {
+    "UUID": "74dfd9e5-6196-4625-8328-4896abcb3e8d",
+    "Type": "AmmoParams",
+    "Speed": 600.0,
+    "Range": 1200.0,
+    "Size": 1.0,
+    "ImpactDamage": {
+      "Energy": 21.0
+    },
+    "BulletImpulseFalloff": {
+      "MinDistance": 0.0,
+      "DropFalloff": 0.02,
+      "MaxFalloff": 0.01
+    },
+    "BulletPierceability": {
+      "DamageFalloffLevel1": 0.0,
+      "DamageFalloffLevel2": 0.0,
+      "DamageFalloffLevel3": 0.0,
+      "MaxPenetrationThickness": 0.5
+    },
+    "BulletElectron": {},
+    "DamageDropMinDistance": {},
+    "DamageDropPerMeter": {},
+    "DamageDropMinDamage": {}
+  },
+  "Ports": [
+    {
+      "PortName": "magazine_attach",
+      "Size": 1,
+      "Loadout": "none_smg_energy_01_mag",
+      "InstalledItem": {
+        "UUID": "3468f853-8bcc-450c-a4fe-f70f6e391301",
+        "ClassName": "none_smg_energy_01_mag",
+        "Size": 1,
+        "Grade": 1,
+        "Type": "WeaponAttachment.Magazine",
+        "Name": "Ripper SMG Battery (60 cap)",
+        "Description": "Item Type: Battery\nCapacity: 60\n\nThis battery for the Ripper SMG holds enough energy for 60 shots.",
+        "Manufacturer": {
+          "Code": "KSAR",
+          "Name": "Kastak Arms"
+        },
+        "Tags": [
+          "none_smg_energy_01"
+        ],
+        "Width": 0.04107491,
+        "Height": 0.1464011,
+        "Length": 0.08062783,
+        "Volume": 0.00047999999999999996,
+        "DimensionOverrides": {
+          "Width": 0.75,
+          "Height": 0.75,
+          "Depth": 0.75
+        },
+        "Ammunition": {
+          "UUID": "74dfd9e5-6196-4625-8328-4896abcb3e8d",
+          "Type": "AmmoParams",
+          "Speed": 600.0,
+          "Range": 1200.0,
+          "Size": 1.0,
+          "Capacity": 60.0,
+          "ImpactDamage": {
+            "Energy": 21.0
+          },
+          "BulletImpulseFalloff": {
+            "MinDistance": 0.0,
+            "DropFalloff": 0.02,
+            "MaxFalloff": 0.01
+          },
+          "BulletPierceability": {
+            "DamageFalloffLevel1": 0.0,
+            "DamageFalloffLevel2": 0.0,
+            "DamageFalloffLevel3": 0.0,
+            "MaxPenetrationThickness": 0.5
+          },
+          "BulletElectron": {},
+          "DamageDropMinDistance": {},
+          "DamageDropPerMeter": {},
+          "DamageDropMinDamage": {}
+        }
+      },
+      "Types": [
+        "WeaponAttachment.Magazine"
+      ]
+    },
+    {
+      "PortName": "item_grab",
+      "Size": 0
+    }
+  ]
+}

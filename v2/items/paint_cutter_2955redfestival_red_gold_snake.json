@@ -1,0 +1,27 @@
+{
+  "UUID": "f0d9afca-9c5e-459a-ad02-d26582467fb1",
+  "ClassName": "Paint_Cutter_2955RedFestival_Red_Gold_Snake",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Cutter 2955 Auspicious Red Snake Livery",
+  "Description": "Seek peace and prosperity in the new year with the Auspicious Red Snake livery. Outfit your ship with this bold red base paint complemented by gold accents and a stylized graphic of a snake.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Drake Interplanetary"
+  },
+  "Tags": [
+    "Paint_Cutter",
+    "@Paint_Cutter_2955RedFestival_Red_Gold_Snake"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

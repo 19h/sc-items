@@ -1,0 +1,27 @@
+{
+  "UUID": "ff7896e4-c353-4cd2-a23f-6e65c907ffa3",
+  "ClassName": "Paint_Fortune_Green_Copper",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Fortune Highlander Livery",
+  "Description": "A deep, earthen green dominates the Fortune Highlander livery, accompanied by a unique copper tinted cockpit.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Tags": [
+    "Paint_Fortune",
+    "@Paint_Fortune_Green_Copper"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

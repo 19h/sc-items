@@ -1,0 +1,27 @@
+{
+  "UUID": "00b42b0d-194b-4972-a43b-f1d40df02ac4",
+  "ClassName": "Paint_Fortune_Black_Tan",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Fortune Reserve Livery",
+  "Description": "A subtle tan accent cuts through an otherwise all black appearance in the Fortune Reserve livery.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Tags": [
+    "Paint_Fortune",
+    "@Paint_Fortune_Black_Tan"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

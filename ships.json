@@ -882,6 +882,34 @@
     "manufacturerName": "Anvil Aerospace"
   },
   {
+    "name": "@vehicle_NameANVL_Hornet_F7CM_Mk2",
+    "career": "@vehicle_focus_combat",
+    "role": "@vehicle_class_mediumfighter",
+    "className": "ANVL_Hornet_F7CM_Mk2",
+    "dogFightEnabled": true,
+    "size": 2,
+    "isGroundVehicle": false,
+    "isGravlevVehicle": false,
+    "isSpaceship": true,
+    "noParts": true,
+    "manufacturerCode": "ANVL",
+    "manufacturerName": "Anvil Aerospace"
+  },
+  {
+    "name": "@vehicle_NameANVL_Hornet_F7CM_Heartseeker_Mk2",
+    "career": "@vehicle_focus_combat",
+    "role": "@vehicle_class_mediumfighter",
+    "className": "ANVL_Hornet_F7CM_Mk2_Heartseeker",
+    "dogFightEnabled": true,
+    "size": 2,
+    "isGroundVehicle": false,
+    "isGravlevVehicle": false,
+    "isSpaceship": true,
+    "noParts": true,
+    "manufacturerCode": "ANVL",
+    "manufacturerName": "Anvil Aerospace"
+  },
+  {
     "name": "@vehicle_NameANVL_Hornet_F7CR",
     "career": "@vehicle_focus_exploration",
     "role": "@vehicle_class_pathfinder",
@@ -2406,6 +2434,20 @@
     "noParts": true,
     "manufacturerCode": "KRI",
     "manufacturerName": "Kruger Intergalatic"
+  },
+  {
+    "name": "@vehicle_NameMISC_Fortune",
+    "career": "@vehicle_focus_resources",
+    "role": "@vehicle_class_lightsalvage",
+    "className": "MISC_Fortune",
+    "dogFightEnabled": true,
+    "size": 2,
+    "isGroundVehicle": false,
+    "isGravlevVehicle": false,
+    "isSpaceship": true,
+    "noParts": true,
+    "manufacturerCode": "MIS",
+    "manufacturerName": "Musashi Industrial & Starflight Concern"
   },
   {
     "name": "@vehicle_NameMISC_Freelancer",

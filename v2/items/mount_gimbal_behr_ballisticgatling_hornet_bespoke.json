@@ -1,0 +1,52 @@
+{
+  "UUID": "fbccf8e2-2085-48c3-bfa8-00226450636d",
+  "ClassName": "Mount_Gimbal_BEHR_BallisticGatling_Hornet_Bespoke",
+  "Size": 4,
+  "Grade": 1,
+  "Type": "Turret.GunTurret",
+  "Name": "TMSB-5 Gimbal Mount",
+  "Description": "Manufacturer: Behring\nItem Type: Gimbal Mount\nSize: 5\n\nDesigned in conjunction with Anvil Aerospace for use on the F7C Hornet Mk II, this gimbal mount allows for adaptive targeting and is fitted with bespoke twin ballistic gatling guns. ",
+  "Manufacturer": {
+    "Code": "BEH",
+    "Name": "Behring"
+  },
+  "Tags": [
+    "gimbalMount",
+    "flightReady"
+  ],
+  "Width": 0.6699014,
+  "Height": 1.202842,
+  "Length": 4.422015,
+  "Volume": 0.756,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  },
+  "Durability": {
+    "Health": 1024.0,
+    "Lifetime": 0.0
+  },
+  "PowerConnection": {
+    "PowerBase": 0.0,
+    "PowerDraw": 15.0
+  },
+  "HeatConnection": {
+    "ThermalEnergyBase": 10.0,
+    "ThermalEnergyDraw": 20.0,
+    "CoolingRate": 1.0
+  },
+  "Ports": [
+    {
+      "PortName": "hardpoint_class_2",
+      "Size": 3,
+      "Types": [
+        "WeaponGun.Gun"
+      ],
+      "Flags": [
+        "uneditable"
+      ],
+      "Uneditable": true
+    }
+  ]
+}

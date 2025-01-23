@@ -1,0 +1,27 @@
+{
+  "UUID": "ee9d65a6-a05e-4af9-a679-180cf0315599",
+  "ClassName": "Paint_Hornet_F7CM_Mk2_Bluegrey_Orange_Black",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Hornet Mk II Tigerveil Livery",
+  "Description": "The dynamic Hornet Mk II deserves a livery to match. The Tigerveil livery consists of a steely blue with bold orange and subtle black highlights.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Anvil Aerospace"
+  },
+  "Tags": [
+    "Paint_Hornet_F7_Mk2",
+    "@Paint_Hornet_F7CM_Mk2_Bluegrey_Orange_Black"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

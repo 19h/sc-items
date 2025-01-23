@@ -1,0 +1,12 @@
+{
+  "UUID": "f0226a8e-ef96-4ea1-a366-36b5fab6b33d",
+  "ClassName": "Radar_Display_MISC_Fortune",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Display.UNDEFINED",
+  "Name": "Radar_Display_MISC_Fortune",
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06
+}

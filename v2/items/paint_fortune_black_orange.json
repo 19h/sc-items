@@ -1,0 +1,27 @@
+{
+  "UUID": "9f767019-5ac2-4b26-9c03-9b4b73770f0f",
+  "ClassName": "Paint_Fortune_Black_Orange",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Fortune Sunspot Livery",
+  "Description": "The deep contrast of the warm orange against the cold black of the Sunspot livery highlights the distinctive profile of the Fortune.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Tags": [
+    "Paint_Fortune",
+    "@Paint_Fortune_Black_Orange"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

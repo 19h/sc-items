@@ -1,0 +1,12 @@
+{
+  "UUID": "eb314b77-43f2-4075-8947-a444be046726",
+  "ClassName": "Controller_Salvage_MISC_Fortune",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "SalvageController.UNDEFINED",
+  "Name": "Controller_Salvage_MISC_Fortune",
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06
+}

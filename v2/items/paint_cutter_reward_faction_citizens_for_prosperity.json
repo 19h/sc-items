@@ -1,0 +1,27 @@
+{
+  "UUID": "a1441184-5bd9-4f11-b2dd-84f7c318e83b",
+  "ClassName": "Paint_Cutter_Reward_Faction_Citizens_For_Prosperity",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Cutter Citizens for Prosperity Garnet Livery",
+  "Description": "Join the Citizens for Prosperity in their mission to bring peace to the frontier with this dark grey and burgandy livery featuring the group's signature logo.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Anvil Aerospace"
+  },
+  "Tags": [
+    "Paint_Cutter",
+    "@Paint_Cutter_Reward_Faction_Citizens_For_Prosperity"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

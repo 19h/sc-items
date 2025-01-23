@@ -11,7 +11,7 @@
     "Name": "Musashi Industrial & Starflight Concern"
   },
   "Tags": [
-    "MISC_Starlancer"
+    "$MISC_Starlancer"
   ],
   "Width": 0.15,
   "Height": 0.15,

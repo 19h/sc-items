@@ -1,0 +1,16 @@
+{
+  "UUID": "55568d9a-4ae5-44b2-a4e1-515f52619498",
+  "ClassName": "MISC_Fortune_SCItem_SeatAccess_Ladder",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "SeatAccess.UNDEFINED",
+  "Name": "Access",
+  "Manufacturer": {
+    "Code": "MIS",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06
+}

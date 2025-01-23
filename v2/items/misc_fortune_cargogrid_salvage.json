@@ -1,0 +1,28 @@
+{
+  "UUID": "04d65bb1-c558-40df-a85b-975b54aa632a",
+  "ClassName": "MISC_Fortune_CargoGrid_Salvage",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "CargoGrid.UNDEFINED",
+  "Name": "MISC_Fortune_CargoGrid_Salvage",
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06,
+  "CargoGrid": {
+    "Capacity": 4.0,
+    "Width": 2.5,
+    "Height": 1.25,
+    "Depth": 2.5,
+    "MiningOnly": true
+  },
+  "PowerConnection": {
+    "PowerBase": 0.0,
+    "PowerDraw": 1.0
+  },
+  "HeatConnection": {
+    "ThermalEnergyBase": 10.0,
+    "ThermalEnergyDraw": 20.0,
+    "CoolingRate": 1.0
+  }
+}

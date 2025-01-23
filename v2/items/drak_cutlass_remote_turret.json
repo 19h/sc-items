@@ -11,7 +11,8 @@
     "Name": "Drake Interplanetary"
   },
   "Tags": [
-    "flightReady"
+    "flightReady",
+    "$DRAK_Cutlass_Remote_Turret"
   ],
   "Width": 0.15,
   "Height": 0.15,

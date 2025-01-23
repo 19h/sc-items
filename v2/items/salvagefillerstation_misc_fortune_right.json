@@ -1,0 +1,51 @@
+{
+  "UUID": "4f191c66-88c5-4e6a-9762-7a5a5a67d6a2",
+  "ClassName": "SalvageFillerStation_MISC_Fortune_Right",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "SalvageFillerStation.UNDEFINED",
+  "Name": "SalvageFillerStation_MISC_Fortune_Right",
+  "Manufacturer": {
+    "Code": "DRAK",
+    "Name": "Drake Interplanetary"
+  },
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06,
+  "Ports": [
+    {
+      "PortName": "hardpoint_salvage_refill_right",
+      "Size": 0
+    },
+    {
+      "PortName": "hardpoint_salvage_crate_right",
+      "Size": 0
+    },
+    {
+      "PortName": "port_controls_screen",
+      "Size": 0,
+      "Loadout": "MISC_Fortune_Salvage_Monitor",
+      "InstalledItem": {
+        "UUID": "8306db02-ce5b-4019-99df-ed67ef2b5b84",
+        "ClassName": "MISC_Fortune_Salvage_Monitor",
+        "Size": 1,
+        "Grade": 1,
+        "Type": "UNDEFINED.UNDEFINED",
+        "Name": "MISC_Fortune_Salvage_Monitor",
+        "Manufacturer": {
+          "Code": "DRAK",
+          "Name": "Drake Interplanetary"
+        },
+        "Width": 0.15,
+        "Height": 0.15,
+        "Length": 0.15,
+        "Volume": 1E-06
+      }
+    },
+    {
+      "PortName": "hardpoint_cargo_grid_right",
+      "Size": 0
+    }
+  ]
+}

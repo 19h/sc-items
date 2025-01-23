@@ -1,0 +1,27 @@
+{
+  "UUID": "7a44a748-5f3d-47a0-ab93-111326a14118",
+  "ClassName": "Paint_Fortune_2955RedFestival_Red_Gold_Pig",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Fortune 2955 Auspicious Red Pig Livery",
+  "Description": "Seek peace and prosperity in the new year with the Auspicious Red Pig livery. Outfit your ship with this bold red base paint complemented by gold accents and a stylized graphic of a pig.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Tags": [
+    "Paint_Fortune",
+    "@Paint_Fortune_2955RedFestival_Red_Gold_Pig"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

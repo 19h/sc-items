@@ -1,0 +1,27 @@
+{
+  "UUID": "51bfc345-7263-4db3-ba20-2e06c59dc7a0",
+  "ClassName": "Paint_Fortune_Blue_Gray",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Fortune Hightide Livery",
+  "Description": "Oceanic blues drench the Hightide livery, with strong blacks and greys deepening the Fortune's impact further.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Tags": [
+    "Paint_Fortune",
+    "@Paint_Fortune_Blue_Gray"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

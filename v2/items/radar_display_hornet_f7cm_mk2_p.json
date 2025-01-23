@@ -1,0 +1,12 @@
+{
+  "UUID": "7a00983d-7316-4331-97ec-1bbf6965db85",
+  "ClassName": "Radar_Display_Hornet_F7CM_Mk2_P",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Display.UNDEFINED",
+  "Name": "Radar_Display_Hornet_F7CM_Mk2_P",
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06
+}

@@ -1,0 +1,37 @@
+{
+  "UUID": "98fa5111-88b3-42f0-96c1-7c0cca1c674c",
+  "ClassName": "ANVL_Hornet_F7CM_Mk2_Thruster_Retro_Right",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "ManneuverThruster.Retro",
+  "Name": "ANVL_Hornet_F7CM_Mk2_Thruster_Retro_Right",
+  "Manufacturer": {
+    "Code": "ANVL",
+    "Name": "Anvil Aerospace"
+  },
+  "Tags": [
+    "ANVL_Hornet_F7A"
+  ],
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06,
+  "Thruster": {
+    "ThrustCapacity": 1299374.0,
+    "FuelRate": 4.55375E-06,
+    "Type": "Retro",
+    "MaxThrustFuelRate": 5.9170243525
+  },
+  "Durability": {
+    "Health": 8250.0
+  },
+  "PowerConnection": {
+    "PowerBase": 20.0,
+    "PowerDraw": 24.0
+  },
+  "HeatConnection": {
+    "ThermalEnergyBase": 500.0,
+    "ThermalEnergyDraw": 1250.0,
+    "CoolingRate": 45.0
+  }
+}

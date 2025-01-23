@@ -1,0 +1,53 @@
+{
+  "UUID": "fddf6a6a-e0df-465e-ba4a-6af41045dafb",
+  "ClassName": "MISC_Fortune_Salvage_Arm",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "ToolArm.UNDEFINED",
+  "Name": "MISC_Fortune_Salvage_Arm",
+  "Tags": [
+    "salvageMount"
+  ],
+  "Width": 0.2233005,
+  "Height": 0.801895,
+  "Length": 2.211008,
+  "Volume": 0.08399999999999999,
+  "DimensionOverrides": {
+    "Width": 0.38,
+    "Height": 0.38,
+    "Depth": 0.38
+  },
+  "Durability": {
+    "Health": 5000.0,
+    "Lifetime": 0.0
+  },
+  "PowerConnection": {
+    "PowerBase": 0.0,
+    "PowerDraw": 10.0
+  },
+  "HeatConnection": {
+    "ThermalEnergyBase": 10.0,
+    "ThermalEnergyDraw": 20.0,
+    "CoolingRate": 1.0
+  },
+  "Ports": [
+    {
+      "PortName": "hardpoint_salvage_arm_head",
+      "Size": 2,
+      "Types": [
+        "SalvageHead"
+      ]
+    },
+    {
+      "PortName": "hardpoint_disintegration_intake",
+      "Size": 2,
+      "Types": [
+        "SalvageFieldEmitter"
+      ],
+      "Flags": [
+        "uneditable"
+      ],
+      "Uneditable": true
+    }
+  ]
+}

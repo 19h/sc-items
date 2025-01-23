@@ -6375,7 +6375,8 @@
           "Name": "Argo Astronautics"
         },
         "Tags": [
-          "flightReady"
+          "flightReady",
+          "$DRAK_Caterpillar_Turret"
         ],
         "Width": 0.15,
         "Height": 0.15,
@@ -6444,7 +6445,8 @@
           "Name": "Argo Astronautics"
         },
         "Tags": [
-          "flightReady"
+          "flightReady",
+          "$DRAK_Caterpillar_Turret"
         ],
         "Width": 0.15,
         "Height": 0.15,

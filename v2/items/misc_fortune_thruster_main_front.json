@@ -1,0 +1,34 @@
+{
+  "UUID": "408d0ea6-c250-4dc9-856f-186fe1b61190",
+  "ClassName": "MISC_Fortune_Thruster_Main_Front",
+  "Size": 2,
+  "Grade": 1,
+  "Type": "MainThruster.FixedThruster",
+  "Name": "MISC_Fortune_Thruster_Main_Front",
+  "Manufacturer": {
+    "Code": "MIS",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06,
+  "Thruster": {
+    "ThrustCapacity": 399807.0,
+    "FuelRate": 1.02375E-05,
+    "Type": "Main",
+    "MaxThrustFuelRate": 4.0930241625
+  },
+  "Durability": {
+    "Health": 11400.0
+  },
+  "PowerConnection": {
+    "PowerBase": 20.0,
+    "PowerDraw": 24.0
+  },
+  "HeatConnection": {
+    "ThermalEnergyBase": 500.0,
+    "ThermalEnergyDraw": 1250.0,
+    "CoolingRate": 45.0
+  }
+}

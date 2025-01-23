@@ -45,10 +45,10 @@
     {
       "PortName": "hardpoint_weaponcenter",
       "Size": 10,
-      "Loadout": "BEHR_LaserRepeater_S10",
+      "Loadout": "BEHR_LaserRepeater_S10_SecurityNetwork",
       "InstalledItem": {
-        "UUID": "5f37d7dd-8d94-465e-a4c4-da78bd3941d8",
-        "ClassName": "BEHR_LaserRepeater_S10",
+        "UUID": "537c6570-d7ec-45e7-9f71-5ac63a3893c6",
+        "ClassName": "BEHR_LaserRepeater_S10_SecurityNetwork",
         "Size": 10,
         "Grade": 1,
         "Type": "WeaponGun.Gun",

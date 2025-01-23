@@ -1,0 +1,129 @@
+{
+  "UUID": "cfbd1437-b6aa-480a-b3a2-5d3ad001c726",
+  "ClassName": "BEHR_BallisticGatling_Hornet_Bespoke",
+  "Size": 4,
+  "Grade": 1,
+  "Type": "WeaponGun.Gun",
+  "Classification": "Ship.Weapon.Gun",
+  "Name": "TMSB-5 Gatling",
+  "Description": "Manufacturer: Behring\nItem Type: Ballistic Gatling (x2)\nSize: 5\n\nThese twin ballistic gatling was designed in conjunction with Anvil Aerospace for use on the F7C Hornet Mk II and are intended to be gimbal mounted onto a ball turret for adaptive targeting.",
+  "Manufacturer": {
+    "Code": "BEH",
+    "Name": "Behring"
+  },
+  "Tags": [
+    "GATS",
+    "BallisticGatling",
+    "flightReady",
+    "weaponMountUsable"
+  ],
+  "Width": 0.6699014,
+  "Height": 1.202842,
+  "Length": 4.422015,
+  "Volume": 0.756,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 3.0
+  },
+  "Durability": {
+    "Health": 1500.0,
+    "Lifetime": 0.0
+  },
+  "PowerConnection": {
+    "PowerBase": 50.0,
+    "PowerDraw": 70.0
+  },
+  "Weapon": {
+    "Ammunition": {
+      "UUID": "837fdcba-50c6-4a50-aa8d-ebf5648e00e5",
+      "Type": "AmmoParams",
+      "Speed": 1050.0,
+      "Range": 2835.0,
+      "Size": 1.0,
+      "Capacity": 1750.0,
+      "ImpactDamage": {
+        "Physical": 105.4
+      },
+      "BulletImpulseFalloff": {},
+      "BulletPierceability": {
+        "DamageFalloffLevel1": 0.0,
+        "DamageFalloffLevel2": 0.0,
+        "DamageFalloffLevel3": 0.0,
+        "MaxPenetrationThickness": 0.5
+      },
+      "BulletElectron": {},
+      "DamageDropMinDistance": {},
+      "DamageDropPerMeter": {},
+      "DamageDropMinDamage": {}
+    },
+    "Modes": [
+      {
+        "Name": "Rapid",
+        "LocalisedName": "[AUTO]",
+        "RoundsPerMinute": 1050.0,
+        "FireType": "rapid",
+        "AmmoPerShot": 1.0,
+        "PelletsPerShot": 1.0,
+        "DamagePerShot": {
+          "Physical": 105.4
+        },
+        "DamagePerSecond": {
+          "Physical": 1844.5
+        }
+      }
+    ]
+  },
+  "Ammunition": {
+    "UUID": "837fdcba-50c6-4a50-aa8d-ebf5648e00e5",
+    "Type": "AmmoParams",
+    "Speed": 1050.0,
+    "Range": 2835.0,
+    "Size": 1.0,
+    "Capacity": 1750.0,
+    "ImpactDamage": {
+      "Physical": 105.4
+    },
+    "BulletImpulseFalloff": {},
+    "BulletPierceability": {
+      "DamageFalloffLevel1": 0.0,
+      "DamageFalloffLevel2": 0.0,
+      "DamageFalloffLevel3": 0.0,
+      "MaxPenetrationThickness": 0.5
+    },
+    "BulletElectron": {},
+    "DamageDropMinDistance": {},
+    "DamageDropPerMeter": {},
+    "DamageDropMinDamage": {}
+  },
+  "Ports": [
+    {
+      "PortName": "BAR1",
+      "Size": 1,
+      "Types": [
+        "WeaponAttachment.Barrel"
+      ]
+    },
+    {
+      "PortName": "MEC",
+      "Size": 1,
+      "Types": [
+        "WeaponAttachment.FiringMechanism"
+      ]
+    },
+    {
+      "PortName": "POW",
+      "Size": 1,
+      "Types": [
+        "WeaponAttachment.PowerArray"
+      ]
+    },
+    {
+      "PortName": "VEN",
+      "Size": 1,
+      "Types": [
+        "WeaponAttachment.Ventilation"
+      ]
+    }
+  ]
+}

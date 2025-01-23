@@ -1,0 +1,28 @@
+{
+  "UUID": "6d3d35c6-049c-4fb9-b831-d098d40dc5d2",
+  "ClassName": "Paint_Pisces_Reward_Faction_Head_Hunters",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Pisces Headhunters Trauma Livery",
+  "Description": "Show your loyalty to the Headhunters gang with this livery featuring their logo emblazend on a dark grey hull accented with a vibrant purple.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Anvil Aerospace"
+  },
+  "Tags": [
+    "Paint_Pisces",
+    "Paint_Pisces_Expedition",
+    "@Paint_Pisces_Reward_Faction_Head_Hunters"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

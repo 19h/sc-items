@@ -1,0 +1,69 @@
+{
+  "UUID": "4b2e4ce4-ac79-4923-bfdd-ccce02129b27",
+  "ClassName": "ANVL_Hornet_F7CM_Mk2_Ball_Turret_Bespoke",
+  "Size": 5,
+  "Grade": 1,
+  "Type": "Turret.BallTurret",
+  "Name": "TMSB-5 Ball Turret",
+  "Description": "Manufacturer: Behring\nItem Type: Ball Turret\nSize: 5\n\nDesigned in conjunction with Anvil Aerospace for use on the F7C Hornet Mk II, this turret featuring a fully integrated gimbal mount to allow for adaptive targeting and is fitted with bespoke twin ballistic gatling guns. ",
+  "Manufacturer": {
+    "Code": "ANVL",
+    "Name": "Anvil Aerospace"
+  },
+  "Tags": [
+    "flightReady",
+    "$ANVL_Hornet_Mk2_Center"
+  ],
+  "Width": 0.2233005,
+  "Height": 0.801895,
+  "Length": 2.211008,
+  "Volume": 0.08399999999999999,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  },
+  "Durability": {
+    "Health": 1500.0,
+    "Lifetime": 0.0
+  },
+  "PowerConnection": {
+    "PowerBase": 0.0,
+    "PowerDraw": 1.0
+  },
+  "HeatConnection": {
+    "ThermalEnergyBase": 10.0,
+    "ThermalEnergyDraw": 20.0,
+    "CoolingRate": 1.0
+  },
+  "Ports": [
+    {
+      "PortName": "hardpoint_weapon_left",
+      "Size": 4,
+      "Types": [
+        "WeaponGun.Gun",
+        "Turret.GunTurret"
+      ],
+      "Flags": [
+        "turret",
+        "left",
+        "uneditable"
+      ],
+      "Uneditable": true
+    },
+    {
+      "PortName": "hardpoint_weapon_right",
+      "Size": 4,
+      "Types": [
+        "WeaponGun.Gun",
+        "Turret.GunTurret"
+      ],
+      "Flags": [
+        "turret",
+        "right",
+        "uneditable"
+      ],
+      "Uneditable": true
+    }
+  ]
+}

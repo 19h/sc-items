@@ -1,0 +1,27 @@
+{
+  "UUID": "26b59f42-b324-4e71-ab3d-f07c0d8e2bca",
+  "ClassName": "Paint_Carrack_Reward_Faction_Frontier_Fighters",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Carrack Frontier Fighters Camo Livery",
+  "Description": "Be ready to battle in the untamed wilds with this green camo livery featuring the logo of the Frontier Fighters vigilante group. ",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Anvil Aerospace"
+  },
+  "Tags": [
+    "Paint_Carrack",
+    "@Paint_Carrack_Reward_Faction_Frontier_Fighters"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

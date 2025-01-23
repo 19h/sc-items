@@ -1,0 +1,52 @@
+{
+  "UUID": "3468f853-8bcc-450c-a4fe-f70f6e391301",
+  "ClassName": "none_smg_energy_01_mag",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "WeaponAttachment.Magazine",
+  "Classification": "FPS.WeaponAttachment.Magazine",
+  "Name": "Ripper SMG Battery (60 cap)",
+  "Description": "Item Type: Battery\nCapacity: 60\n\nThis battery for the Ripper SMG holds enough energy for 60 shots.",
+  "Manufacturer": {
+    "Code": "KSAR",
+    "Name": "Kastak Arms"
+  },
+  "Tags": [
+    "none_smg_energy_01"
+  ],
+  "Width": 0.04107491,
+  "Height": 0.1464011,
+  "Length": 0.08062783,
+  "Volume": 0.00047999999999999996,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  },
+  "Ammunition": {
+    "UUID": "74dfd9e5-6196-4625-8328-4896abcb3e8d",
+    "Type": "AmmoParams",
+    "Speed": 600.0,
+    "Range": 1200.0,
+    "Size": 1.0,
+    "Capacity": 60.0,
+    "ImpactDamage": {
+      "Energy": 21.0
+    },
+    "BulletImpulseFalloff": {
+      "MinDistance": 0.0,
+      "DropFalloff": 0.02,
+      "MaxFalloff": 0.01
+    },
+    "BulletPierceability": {
+      "DamageFalloffLevel1": 0.0,
+      "DamageFalloffLevel2": 0.0,
+      "DamageFalloffLevel3": 0.0,
+      "MaxPenetrationThickness": 0.5
+    },
+    "BulletElectron": {},
+    "DamageDropMinDistance": {},
+    "DamageDropPerMeter": {},
+    "DamageDropMinDamage": {}
+  }
+}

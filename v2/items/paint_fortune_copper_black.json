@@ -1,0 +1,27 @@
+{
+  "UUID": "4a0332d5-3e09-4784-a630-d4e158e63aaa",
+  "ClassName": "Paint_Fortune_Copper_Black",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Paints.UNDEFINED",
+  "Classification": "Ship.Paints",
+  "Name": "Fortune Windfall Livery",
+  "Description": "Make a lasting impression while sailing the stars in your Fortune with the Windfall livery's stunning copper finish.",
+  "Manufacturer": {
+    "Code": "",
+    "Name": "Musashi Industrial & Starflight Concern"
+  },
+  "Tags": [
+    "Paint_Fortune",
+    "@Paint_Fortune_Copper_Black"
+  ],
+  "Width": 0.3,
+  "Height": 0.2,
+  "Length": 0.4,
+  "Volume": 0.024,
+  "DimensionOverrides": {
+    "Width": 0.75,
+    "Height": 0.75,
+    "Depth": 0.75
+  }
+}

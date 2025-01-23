@@ -86,7 +86,7 @@
                 },
                 {
                   "itemPortName": "hardpoint_controller_weapon",
-                  "entityClassName": "Controller_Weapon",
+                  "entityClassName": "Controller_Weapon_UnmannedTurret",
                   "entityClassReference": "00000000-0000-0000-0000-000000000000",
                   "loadout": {}
                 },
@@ -141,13 +141,13 @@
                       "entries": [
                         {
                           "itemPortName": "turret_left",
-                          "entityClassName": "BEHR_LaserCannon_S6",
+                          "entityClassName": "BEHR_LaserCannon_S6_SecurityNetwork",
                           "entityClassReference": "00000000-0000-0000-0000-000000000000",
                           "loadout": {}
                         },
                         {
                           "itemPortName": "turret_right",
-                          "entityClassName": "BEHR_LaserCannon_S6",
+                          "entityClassName": "BEHR_LaserCannon_S6_SecurityNetwork",
                           "entityClassReference": "00000000-0000-0000-0000-000000000000",
                           "loadout": {}
                         }

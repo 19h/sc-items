@@ -1,0 +1,16 @@
+{
+  "UUID": "0c8d595d-aade-41b2-a7b0-d4e843bf2f24",
+  "ClassName": "ANVL_Hornet_F7CM_Mk2_Seat_Pilot",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Seat.UNDEFINED",
+  "Name": "TRGT. STATUS",
+  "Manufacturer": {
+    "Code": "ANVL",
+    "Name": "Anvil Aerospace"
+  },
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06
+}

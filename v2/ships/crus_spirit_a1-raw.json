@@ -849,13 +849,13 @@
               {
                 "itemPortName": "hardpoint_cargogrid_left",
                 "entityClassName": "",
-                "entityClassReference": "99644e5d-1c63-4803-a95f-57009d2999c7",
+                "entityClassReference": "00000000-0000-0000-0000-000000000000",
                 "loadout": {}
               },
               {
                 "itemPortName": "hardpoint_cargogrid_right",
                 "entityClassName": "",
-                "entityClassReference": "99644e5d-1c63-4803-a95f-57009d2999c7",
+                "entityClassReference": "00000000-0000-0000-0000-000000000000",
                 "loadout": {}
               },
               {

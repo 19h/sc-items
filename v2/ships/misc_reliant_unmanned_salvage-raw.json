@@ -85,8 +85,8 @@
               },
               {
                 "itemPortName": "hardpoint_seat_pilot",
-                "entityClassName": "MISC_Reliant_SCItem_Seat_Pilot",
-                "entityClassReference": "00000000-0000-0000-0000-000000000000",
+                "entityClassName": "",
+                "entityClassReference": "2ff6a0f0-5119-4e4f-8d92-2b65d9029bab",
                 "loadout": {
                   "SItemPortLoadoutManualParams": {
                     "entries": [
@@ -124,6 +124,18 @@
                         "itemPortName": "Screen_MFD_Mid_Left",
                         "entityClassName": "Vehicle_Screen_MFD_Holographic_MISC_Reliant_ML",
                         "entityClassReference": "00000000-0000-0000-0000-000000000000",
+                        "loadout": {}
+                      },
+                      {
+                        "itemPortName": "Screen_Annunciator_Left",
+                        "entityClassName": "",
+                        "entityClassReference": "89d12a4d-4327-45ba-954f-d81d91a6fd13",
+                        "loadout": {}
+                      },
+                      {
+                        "itemPortName": "Screen_Annunciator_Right",
+                        "entityClassName": "",
+                        "entityClassReference": "89d12a4d-4327-45ba-954f-d81d91a6fd13",
                         "loadout": {}
                       }
                     ]

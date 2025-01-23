@@ -1,5 +1,14 @@
 [
   {
+    "Name": "hardpoint_paint",
+    "Port": {
+      "PortName": "hardpoint_paint",
+      "Size": 0,
+      "Loadout": "",
+      "Category": "DISABLED"
+    }
+  },
+  {
     "Name": "hardpoint_seat_access",
     "Port": {
       "PortName": "hardpoint_seat_access",
@@ -32,15 +41,6 @@
         }
       },
       "Category": "UNKNOWN"
-    }
-  },
-  {
-    "Name": "hardpoint_paint",
-    "Port": {
-      "PortName": "hardpoint_paint",
-      "Size": 0,
-      "Loadout": "",
-      "Category": "DISABLED"
     }
   },
   {

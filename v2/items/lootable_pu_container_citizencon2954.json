@@ -1,0 +1,28 @@
+{
+  "UUID": "f997c5ec-51a7-4f5b-8e42-d3ec66d8db5a",
+  "ClassName": "Lootable_PU_Container_Citizencon2954",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "InventoryContainer.Cargo",
+  "Name": "CitizenCon 2954 Storage Chest",
+  "Description": "Bring home too many keepsakes and memorabilia from the 2954 CitizenCon? Then this functional chest featuring the blue event logo is the perfect storage solution for your hab or hangar. ",
+  "Tags": [
+    "LootableContainer"
+  ],
+  "Width": 2.5,
+  "Height": 1.25,
+  "Length": 1.25,
+  "Volume": 2.0,
+  "DimensionOverrides": {
+    "Width": 0.5,
+    "Height": 0.5,
+    "Depth": 0.5
+  },
+  "InventoryContainer": {
+    "SCU": 2.0,
+    "x": 1.25,
+    "y": 2.5,
+    "z": 1.25,
+    "unit": 0.0
+  }
+}

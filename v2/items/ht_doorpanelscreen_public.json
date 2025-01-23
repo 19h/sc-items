@@ -1,0 +1,15 @@
+{
+  "UUID": "40f3b660-30de-481b-8feb-75a1392f6204",
+  "ClassName": "HT_DoorPanelScreen_Public",
+  "Size": 1,
+  "Grade": 1,
+  "Type": "Misc.UNDEFINED",
+  "Name": "HT_DoorPanelScreen_Public",
+  "Tags": [
+    "AirlockControlUI"
+  ],
+  "Width": 0.15,
+  "Height": 0.15,
+  "Length": 0.15,
+  "Volume": 1E-06
+}

@@ -83,8 +83,8 @@
                 },
                 {
                   "itemPortName": "hardpoint_dashboard_pilot",
-                  "entityClassName": "BANU_Defender_Dashboard_Pilot",
-                  "entityClassReference": "00000000-0000-0000-0000-000000000000",
+                  "entityClassName": "",
+                  "entityClassReference": "61367034-09d9-4680-8fc3-bc49e7fb4d33",
                   "loadout": {
                     "SItemPortLoadoutManualParams": {
                       "entries": [
@@ -122,6 +122,18 @@
                           "itemPortName": "rtt_screen_radar",
                           "entityClassName": "",
                           "entityClassReference": "7a37dc17-4984-4418-a70d-04bf22fea031",
+                          "loadout": {}
+                        },
+                        {
+                          "itemPortName": "Screen_Annunciator_Left",
+                          "entityClassName": "",
+                          "entityClassReference": "89d12a4d-4327-45ba-954f-d81d91a6fd13",
+                          "loadout": {}
+                        },
+                        {
+                          "itemPortName": "Screen_Annunciator_Right",
+                          "entityClassName": "",
+                          "entityClassReference": "89d12a4d-4327-45ba-954f-d81d91a6fd13",
                           "loadout": {}
                         }
                       ]

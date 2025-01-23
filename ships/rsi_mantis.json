@@ -129,6 +129,18 @@
                           "entityClassName": "Vehicle_Screen_MFD",
                           "entityClassReference": "00000000-0000-0000-0000-000000000000",
                           "loadout": {}
+                        },
+                        {
+                          "itemPortName": "screen_annunciator_left",
+                          "entityClassName": "",
+                          "entityClassReference": "89d12a4d-4327-45ba-954f-d81d91a6fd13",
+                          "loadout": {}
+                        },
+                        {
+                          "itemPortName": "screen_annunciator_right",
+                          "entityClassName": "",
+                          "entityClassReference": "89d12a4d-4327-45ba-954f-d81d91a6fd13",
+                          "loadout": {}
                         }
                       ]
                     }

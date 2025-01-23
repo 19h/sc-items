@@ -6,6 +6,9 @@
   "Type": "Misc.UNDEFINED",
   "Name": "Year of the Dog Envelope",
   "Description": "A gilded red envelope celebrating the Year of the Dog. Exchanging these envelopes is one of the most popular ways of celebrating Red Festival. Often the envelope may include a small amount of credits inside to help those you care about have a strong start in the upcoming cycle. Growing in popularity is the newer tradition of hiding the envelopes as a way of spreading good fortune and prosperity to those that fate has deemed in need. ",
+  "Tags": [
+    "Envelope"
+  ],
   "Width": 0.2498,
   "Height": 0.0204,
   "Length": 0.3017,

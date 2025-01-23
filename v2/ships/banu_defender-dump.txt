@@ -1,15 +1,20 @@
 BANU_Defender
 hardpoint_paint                                   S0                                                                                                                      DISABLED                                
 hardpoint_seat_pilot                              S0                                                     BANU_Defender_Seat                                               UNKNOWN                                 
-hardpoint_dashboard_pilot                         S0                                                                                                                      DISABLED                                
+hardpoint_dashboard_pilot                         S0                                                     BANU_Defender_Dashboard_Pilot                                    UNKNOWN                                 
+ hardpoint_cockpit_radar                          S1   Display                                                                                                            UNKNOWN                                 
+ Display_HUD                                      S1                                                                                                                      UNKNOWN                                 
+ rtt_screen_left                                  S1   Display                                                                                                            UNKNOWN                                 
+ rtt_screen_right                                 S1   Display                                                                                                            UNKNOWN                                 
+ rtt_screen_center_left                           S1   Display                                                                                                            UNKNOWN                                 
+ rtt_screen_center_right                          S1   Display                                                                                                            UNKNOWN                                 
+ rtt_screen_radar                                 S1   Display                                                                                                            UNKNOWN                                 
  Display_HUD                                      S0                                                                                                                      DISABLED                                
  rtt_screen_left                                  S0                                                                                                                      DISABLED                                
  rtt_screen_right                                 S0                                                                                                                      DISABLED                                
  rtt_screen_center_left                           S0                                                                                                                      DISABLED                                
  rtt_screen_center_right                          S0                                                                                                                      DISABLED                                
  rtt_screen_radar                                 S0                                                                                                                      DISABLED                                
- Screen_Annunciator_Left                          S0                                                                                                                      DISABLED                                
- Screen_Annunciator_Right                         S0                                                                                                                      DISABLED                                
 hardpoint_seat_copilot                            S0                                                     BANU_Defender_Seat_Right                                         UNKNOWN                                 
 hardpoint_dashboard_copilot                       S0                                                     BANU_Defender_Dashboard_Pilot                                    UNKNOWN                                 
  hardpoint_cockpit_radar                          S1   Display                                                                                                            UNKNOWN                                 
@@ -19,8 +24,6 @@ hardpoint_dashboard_copilot                       S0                            
  rtt_screen_center_left                           S1   Display                                                                                                            UNKNOWN                                 
  rtt_screen_center_right                          S1   Display                                                                                                            UNKNOWN                                 
  rtt_screen_radar                                 S1   Display                                                                                                            UNKNOWN                                 
- Screen_Annunciator_Left                          S1                                                                                                                      UNKNOWN                                 
- Screen_Annunciator_Right                         S1                                                                                                                      UNKNOWN                                 
  Display_HUD                                      S0                                                                                                                      DISABLED                                
  rtt_screen_left                                  S0                                                                                                                      DISABLED                                
  rtt_screen_right                                 S0                                                                                                                      DISABLED                                

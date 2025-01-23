@@ -92,8 +92,8 @@
                 },
                 {
                   "itemPortName": "hardpoint_dashboard_pilot",
-                  "entityClassName": "",
-                  "entityClassReference": "87f0b19e-bf34-4565-9ea3-e4bd4bc05d67",
+                  "entityClassName": "XIAN_Scout_SCItem_Dashboard_Pilot",
+                  "entityClassReference": "00000000-0000-0000-0000-000000000000",
                   "loadout": {
                     "SItemPortLoadoutManualParams": {
                       "entries": [
@@ -125,18 +125,6 @@
                           "itemPortName": "Screen_Center_RTT",
                           "entityClassName": "Vehicle_Screen_MFD",
                           "entityClassReference": "00000000-0000-0000-0000-000000000000",
-                          "loadout": {}
-                        },
-                        {
-                          "itemPortName": "Screen_Annunciator_Left",
-                          "entityClassName": "",
-                          "entityClassReference": "89d12a4d-4327-45ba-954f-d81d91a6fd13",
-                          "loadout": {}
-                        },
-                        {
-                          "itemPortName": "Screen_Annunciator_Right",
-                          "entityClassName": "",
-                          "entityClassReference": "89d12a4d-4327-45ba-954f-d81d91a6fd13",
                           "loadout": {}
                         }
                       ]

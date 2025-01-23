@@ -55,7 +55,14 @@
       ]
     },
     {
-      "PortName": "Screen_Left_Bottom_MFD",
+      "PortName": "Screen_Right_Top_MFD",
+      "Size": 1,
+      "Types": [
+        "Display"
+      ]
+    },
+    {
+      "PortName": "Screen_Left_Top_MFD",
       "Size": 1,
       "Types": [
         "Display"
@@ -69,7 +76,7 @@
       ]
     },
     {
-      "PortName": "Screen_Left_Outer_MFD",
+      "PortName": "Screen_Left_Bottom_MFD",
       "Size": 1,
       "Types": [
         "Display"
@@ -77,6 +84,13 @@
     },
     {
       "PortName": "Screen_Right_Outer_MFD",
+      "Size": 1,
+      "Types": [
+        "Display"
+      ]
+    },
+    {
+      "PortName": "Screen_Left_Outer_MFD",
       "Size": 1,
       "Types": [
         "Display"

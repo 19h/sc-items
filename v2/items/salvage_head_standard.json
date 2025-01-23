@@ -118,9 +118,6 @@
       "Size": 1,
       "Types": [
         "SalvageModifier"
-      ],
-      "Flags": [
-        "invisible"
       ]
     },
     {
@@ -128,9 +125,6 @@
       "Size": 1,
       "Types": [
         "SalvageModifier"
-      ],
-      "Flags": [
-        "invisible"
       ]
     }
   ]

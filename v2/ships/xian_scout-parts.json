@@ -73,8 +73,139 @@
     "Port": {
       "PortName": "hardpoint_dashboard_pilot",
       "Size": 0,
-      "Loadout": "",
-      "Category": "DISABLED"
+      "Loadout": "XIAN_Scout_SCItem_Dashboard_Pilot",
+      "InstalledItem": {
+        "UUID": "87f0b19e-bf34-4565-9ea3-e4bd4bc05d67",
+        "ClassName": "XIAN_Scout_SCItem_Dashboard_Pilot",
+        "Size": 1,
+        "Grade": 1,
+        "Type": "SeatDashboard.UNDEFINED",
+        "Name": "XIAN_Scout_SCItem_Dashboard_Pilot",
+        "Manufacturer": {
+          "Code": "XNAA",
+          "Name": "Aopoa"
+        },
+        "Width": 0.15,
+        "Height": 0.15,
+        "Length": 0.15,
+        "Volume": 1E-06,
+        "Durability": {
+          "Health": 1.0
+        },
+        "PowerConnection": {
+          "PowerBase": 1.0,
+          "PowerDraw": 1.0
+        },
+        "HeatConnection": {
+          "ThermalEnergyBase": 10.0,
+          "ThermalEnergyDraw": 20.0,
+          "CoolingRate": 1.0
+        },
+        "Ports": [
+          {
+            "PortName": "hardpoint_cockpit_radar",
+            "Size": 1,
+            "Loadout": "Radar_Display_XNAA_Scout",
+            "InstalledItem": {
+              "UUID": "5ace978d-750d-47d4-9eb7-054bebd3b9a5",
+              "ClassName": "Radar_Display_XNAA_Scout",
+              "Size": 1,
+              "Grade": 1,
+              "Type": "Display.UNDEFINED",
+              "Name": "Radar_Display_XNAA_Scout",
+              "Width": 0.15,
+              "Height": 0.15,
+              "Length": 0.15,
+              "Volume": 1E-06
+            },
+            "Types": [
+              "Display"
+            ],
+            "Category": "UNKNOWN"
+          },
+          {
+            "PortName": "Display_HUD",
+            "Size": 1,
+            "Category": "UNKNOWN"
+          },
+          {
+            "PortName": "Screen_Right_RTT",
+            "Size": 1,
+            "Loadout": "Vehicle_Screen_MFD_Holographic_Scout_L",
+            "InstalledItem": {
+              "UUID": "a6ab9e91-6fdf-43a3-b5cd-c103167181b0",
+              "ClassName": "Vehicle_Screen_MFD_Holographic_Scout_L",
+              "Size": 1,
+              "Grade": 1,
+              "Type": "Display.UNDEFINED",
+              "Name": "Vehicle_Screen_MFD_Holographic_Scout_L",
+              "Width": 0.15,
+              "Height": 0.15,
+              "Length": 0.15,
+              "Volume": 1E-06,
+              "PowerConnection": {
+                "PowerBase": 1.0,
+                "PowerDraw": 1.0
+              }
+            },
+            "Types": [
+              "Display"
+            ],
+            "Category": "UNKNOWN"
+          },
+          {
+            "PortName": "Screen_Left_RTT",
+            "Size": 1,
+            "Loadout": "Vehicle_Screen_MFD_Holographic_Scout_R",
+            "InstalledItem": {
+              "UUID": "85ec8eb2-4f47-4e72-938c-607c61923c55",
+              "ClassName": "Vehicle_Screen_MFD_Holographic_Scout_R",
+              "Size": 1,
+              "Grade": 1,
+              "Type": "Display.UNDEFINED",
+              "Name": "Vehicle_Screen_MFD_Holographic_Scout_R",
+              "Width": 0.15,
+              "Height": 0.15,
+              "Length": 0.15,
+              "Volume": 1E-06,
+              "PowerConnection": {
+                "PowerBase": 1.0,
+                "PowerDraw": 1.0
+              }
+            },
+            "Types": [
+              "Display"
+            ],
+            "Category": "UNKNOWN"
+          },
+          {
+            "PortName": "Screen_Center_RTT",
+            "Size": 1,
+            "Loadout": "Vehicle_Screen_MFD",
+            "InstalledItem": {
+              "UUID": "c08cedfa-fafc-4ea6-9737-59faeb4b1510",
+              "ClassName": "Vehicle_Screen_MFD",
+              "Size": 1,
+              "Grade": 1,
+              "Type": "Display.UNDEFINED",
+              "Name": "Vehicle_Screen_MFD",
+              "Width": 0.15,
+              "Height": 0.15,
+              "Length": 0.15,
+              "Volume": 1E-06,
+              "PowerConnection": {
+                "PowerBase": 1.0,
+                "PowerDraw": 1.0
+              }
+            },
+            "Types": [
+              "Display"
+            ],
+            "Category": "UNKNOWN"
+          }
+        ]
+      },
+      "Category": "UNKNOWN"
     },
     "Parts": [
       {
@@ -119,24 +250,6 @@
           "PortName": "Screen_Center_RTT",
           "Size": 0,
           "Loadout": "Vehicle_Screen_MFD",
-          "Category": "DISABLED"
-        }
-      },
-      {
-        "Name": "Screen_Annunciator_Left",
-        "Port": {
-          "PortName": "Screen_Annunciator_Left",
-          "Size": 0,
-          "Loadout": "",
-          "Category": "DISABLED"
-        }
-      },
-      {
-        "Name": "Screen_Annunciator_Right",
-        "Port": {
-          "PortName": "Screen_Annunciator_Right",
-          "Size": 0,
-          "Loadout": "",
           "Category": "DISABLED"
         }
       }

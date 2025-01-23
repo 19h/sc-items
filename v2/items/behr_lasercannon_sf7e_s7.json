@@ -48,7 +48,7 @@
       "Size": 7.0,
       "Capacity": 0.0,
       "ImpactDamage": {
-        "Energy": 2068.0
+        "Energy": 1215.0
       },
       "BulletImpulseFalloff": {},
       "BulletPierceability": {
@@ -64,17 +64,17 @@
     },
     "Modes": [
       {
-        "Name": "Single",
-        "LocalisedName": "[AUTO]",
-        "RoundsPerMinute": 50.0,
-        "FireType": "sequence",
+        "Name": "Charge",
+        "LocalisedName": "[CHARGE]",
+        "RoundsPerMinute": 60.0,
+        "FireType": "charged",
         "AmmoPerShot": 1.0,
         "PelletsPerShot": 1.0,
         "DamagePerShot": {
-          "Energy": 2068.0
+          "Energy": 1215.0
         },
         "DamagePerSecond": {
-          "Energy": 1723.3333333333335
+          "Energy": 1215.0
         }
       }
     ],
@@ -93,7 +93,7 @@
     "Size": 7.0,
     "Capacity": 0.0,
     "ImpactDamage": {
-      "Energy": 2068.0
+      "Energy": 1215.0
     },
     "BulletImpulseFalloff": {},
     "BulletPierceability": {

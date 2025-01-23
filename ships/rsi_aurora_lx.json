@@ -128,7 +128,13 @@
                           "loadout": {}
                         },
                         {
-                          "itemPortName": "Screen_Left_Bottom_MFD",
+                          "itemPortName": "Screen_Right_Top_MFD",
+                          "entityClassName": "Vehicle_Screen_MFD",
+                          "entityClassReference": "00000000-0000-0000-0000-000000000000",
+                          "loadout": {}
+                        },
+                        {
+                          "itemPortName": "Screen_Left_Top_MFD",
                           "entityClassName": "Vehicle_Screen_MFD",
                           "entityClassReference": "00000000-0000-0000-0000-000000000000",
                           "loadout": {}
@@ -140,13 +146,19 @@
                           "loadout": {}
                         },
                         {
-                          "itemPortName": "Screen_Left_Outer_MFD",
+                          "itemPortName": "Screen_Left_Bottom_MFD",
                           "entityClassName": "Vehicle_Screen_MFD",
                           "entityClassReference": "00000000-0000-0000-0000-000000000000",
                           "loadout": {}
                         },
                         {
                           "itemPortName": "Screen_Right_Outer_MFD",
+                          "entityClassName": "Vehicle_Screen_MFD",
+                          "entityClassReference": "00000000-0000-0000-0000-000000000000",
+                          "loadout": {}
+                        },
+                        {
+                          "itemPortName": "Screen_Left_Outer_MFD",
                           "entityClassName": "Vehicle_Screen_MFD",
                           "entityClassReference": "00000000-0000-0000-0000-000000000000",
                           "loadout": {}

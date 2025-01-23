@@ -112,12 +112,12 @@
               "Ports": [
                 {
                   "PortName": "cluster1",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -127,8 +127,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -149,23 +148,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster2",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -175,8 +167,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -197,23 +188,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster3",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -223,8 +207,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -245,23 +228,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster4",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -271,8 +247,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -293,23 +268,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster5",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -319,8 +287,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -341,23 +308,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster6",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -367,8 +327,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -389,23 +348,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster7",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -415,8 +367,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -437,14 +388,7 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 }
               ]
             },
@@ -494,12 +438,12 @@
               "Ports": [
                 {
                   "PortName": "cluster1",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -509,8 +453,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -531,23 +474,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster2",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -557,8 +493,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -579,23 +514,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster3",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -605,8 +533,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -627,23 +554,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster4",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -653,8 +573,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -675,23 +594,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster5",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -701,8 +613,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -723,23 +634,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster6",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -749,8 +653,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -771,23 +674,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster7",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -797,8 +693,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -819,14 +714,7 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 }
               ]
             },
@@ -928,12 +816,12 @@
               "Ports": [
                 {
                   "PortName": "cluster1",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -943,8 +831,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -965,23 +852,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster2",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -991,8 +871,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1013,23 +892,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster3",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1039,8 +911,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1061,23 +932,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster4",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1087,8 +951,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1109,23 +972,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster5",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1135,8 +991,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1157,23 +1012,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster6",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1183,8 +1031,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1205,23 +1052,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster7",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1231,8 +1071,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1253,14 +1092,7 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 }
               ]
             },
@@ -1310,12 +1142,12 @@
               "Ports": [
                 {
                   "PortName": "cluster1",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1325,8 +1157,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1347,23 +1178,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster2",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1373,8 +1197,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1395,23 +1218,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster3",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1421,8 +1237,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1443,23 +1258,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster4",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1469,8 +1277,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1491,23 +1298,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster5",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1517,8 +1317,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1539,23 +1338,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster6",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1565,8 +1357,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1587,23 +1378,16 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 },
                 {
                   "PortName": "cluster7",
-                  "Size": 0,
+                  "Size": 1,
                   "Loadout": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
                   "InstalledItem": {
                     "UUID": "d0562627-1838-4fe7-bea7-788d6b8c4055",
                     "ClassName": "NOVP_Rocket_Venom_S1_Strike_TL_IR",
-                    "Size": 0,
+                    "Size": 9,
                     "Grade": 1,
                     "Type": "Missile.Rocket",
                     "Name": "Nova Pyrotechnica Venom Rocket",
@@ -1613,8 +1397,7 @@
                       "Name": "Nova Pyrotechnica"
                     },
                     "Tags": [
-                      "flightReady",
-                      "NOVA_Rocket"
+                      "flightReady"
                     ],
                     "Width": 0.2233005,
                     "Height": 0.801895,
@@ -1635,14 +1418,7 @@
                       }
                     }
                   },
-                  "Types": [
-                    "Missile.Rocket"
-                  ],
-                  "Flags": [
-                    "uneditable"
-                  ],
-                  "Category": "UNKNOWN",
-                  "Uneditable": true
+                  "Category": "UNKNOWN"
                 }
               ]
             },

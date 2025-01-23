@@ -599,13 +599,13 @@
                 },
                 {
                   "itemPortName": "hardpoint_cargo_1",
-                  "entityClassName": "DRAK_Cutter_CargoGrid_4Stack",
+                  "entityClassName": "DRAK_Cutter_CargoGrid_2Stack",
                   "entityClassReference": "00000000-0000-0000-0000-000000000000",
                   "loadout": {}
                 },
                 {
                   "itemPortName": "hardpoint_cargo_2",
-                  "entityClassName": "",
+                  "entityClassName": "DRAK_Cutter_CargoGrid_2Stack",
                   "entityClassReference": "00000000-0000-0000-0000-000000000000",
                   "loadout": {}
                 },

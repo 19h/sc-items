@@ -710,7 +710,7 @@
             "DisplayName": "",
             "PortTags": "Ship_Dock_Refuel",
             "RequiredPortTags": "",
-            "Flags": "dockingport1 $uneditable",
+            "Flags": "dockingport1",
             "MinSize": 1,
             "MaxSize": 1,
             "InteractionPointSize": -1.0,

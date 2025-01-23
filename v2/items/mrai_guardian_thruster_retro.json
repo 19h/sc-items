@@ -20,7 +20,7 @@
     "MaxThrustFuelRate": 14.6875
   },
   "Durability": {
-    "Health": 2200.0
+    "Health": 1000.0
   },
   "PowerConnection": {
     "PowerBase": 20.0,

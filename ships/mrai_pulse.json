@@ -58,14 +58,14 @@
             "SItemPortLoadoutManualParams": {
               "entries": [
                 {
-                  "itemPortName": "hardpoint_paint",
-                  "entityClassName": "",
+                  "itemPortName": "hardpoint_seat_access",
+                  "entityClassName": "MRAI_Pulse_SeatAccess",
                   "entityClassReference": "00000000-0000-0000-0000-000000000000",
                   "loadout": {}
                 },
                 {
-                  "itemPortName": "hardpoint_seat_access",
-                  "entityClassName": "MRAI_Pulse_SeatAccess",
+                  "itemPortName": "hardpoint_paint",
+                  "entityClassName": "",
                   "entityClassReference": "00000000-0000-0000-0000-000000000000",
                   "loadout": {}
                 },

@@ -21,11 +21,11 @@
           "AttachDef": {
             "Type": "Missile",
             "SubType": "Rocket",
-            "Size": 0,
+            "Size": 9,
             "Grade": 1,
             "Manufacturer": "67fd3077-ee8c-4a7c-8bad-91500b2a9509",
-            "Tags": "flightReady NOVA_Rocket",
-            "RequiredTags": "NOVA_Rocket",
+            "Tags": "flightReady",
+            "RequiredTags": "",
             "DisplayType": "",
             "Localization": {
               "Name": "@item_NameNOVP_Rocket_Venom_S1_Strike_TL_IR",
